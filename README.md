@@ -7,7 +7,7 @@ This project is a Streamlit web application that predicts the risk of failure fo
 
 Railway infrastructure requires timely and efficient maintenance to prevent accidents and ensure safety. This application leverages a trained ML model to:
 - Predict the probability of failure for a given track segment
-- Suggest maintenance urgency based on risk thresholds
+- Suggest maintenance urgency
 - Help railway engineers make data-driven maintenance decisions
 
 ---
@@ -23,10 +23,9 @@ Railway infrastructure requires timely and efficient maintenance to prevent acci
 
 ##  Demo
 
-You can test the app live once deployed on Render (replace URL after deployment):
+You can test the app live once deployed on Render :
 
 🔗 [Live App on Render](https://railway-track-management.onrender.com/)
 
----
 
 

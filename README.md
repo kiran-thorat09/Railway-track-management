@@ -3,7 +3,7 @@
 
 This project is a Streamlit web application that predicts the risk of failure for railway track segments using a machine learning model trained on track condition features such as temperature, vibration levels, geometry deviations, and more.
 
-## 🔍 Project Overview
+##  Project Overview
 
 Railway infrastructure requires timely and efficient maintenance to prevent accidents and ensure safety. This application leverages a trained ML model to:
 - Predict the probability of failure for a given track segment
@@ -12,7 +12,7 @@ Railway infrastructure requires timely and efficient maintenance to prevent acci
 
 ---
 
-## 🛠️ Features
+##  Features
 
 - Input-based interface to enter track parameters
 - Real-time prediction using a pre-trained `.pkl` model
@@ -21,13 +21,12 @@ Railway infrastructure requires timely and efficient maintenance to prevent acci
 
 ---
 
-## 🧪 Demo
+##  Demo
 
 You can test the app live once deployed on Render (replace URL after deployment):
 
-🔗 [Live App on Render](https://your-app-url.onrender.com)
+🔗 [Live App on Render](https://railway-track-management.onrender.com/)
 
 ---
 
-## 📁 Project Structure
 
